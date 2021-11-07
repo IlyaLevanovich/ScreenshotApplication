@@ -1,0 +1,1 @@
+Widnows Form application designed to automatically save the screenshot taken to a user-specified folder

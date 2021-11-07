@@ -1,0 +1,10 @@
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\bin\Debug\ScreenShootBehaviour.exe.config
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\bin\Debug\ScreenShootBehaviour.exe
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\bin\Debug\ScreenShootBehaviour.pdb
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\obj\Debug\ScreenShootBehaviour.Form1.resources
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\obj\Debug\ScreenShootBehaviour.Properties.Resources.resources
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\obj\Debug\ScreenShootBehaviour.csproj.GenerateResource.cache
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\obj\Debug\ScreenShootBehaviour.csproj.CoreCompileInputs.cache
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\obj\Debug\ScreenShootBehaviour.exe
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\obj\Debug\ScreenShootBehaviour.pdb
+E:\C# training\ScreenShootBehaviour\ScreenShootBehaviour\obj\Debug\ScreenShootBehaviour.csprojAssemblyReference.cache
